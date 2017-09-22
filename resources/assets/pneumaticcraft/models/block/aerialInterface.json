@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom" : "pneumaticcraft:blocks/AerialInterfaceBottom",
-		"top" : "pneumaticcraft:blocks/AerialInterfaceTop",
-		"side" : "pneumaticcraft:blocks/AerialInterfaceSide"
-    }
-}
